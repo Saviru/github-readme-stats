@@ -472,7 +472,7 @@ export const themes = {
     title_color: "FC2E97",
     text_color: "B6EBE0",
     icon_color: "EBD208",
-    bg_color: "45,021D4A,520806",
+    bg_color: "45,520806,021D4A",
   },
 };
 
