@@ -468,7 +468,7 @@ export const themes = {
     icon_color: "EBD208",
     bg_color: "35,021D4A,520806",
   },
-  watchdog_gradient35: {
+  watchdog_gradient45: {
     title_color: "FC2E97",
     text_color: "B6EBE0",
     icon_color: "EBD208",
